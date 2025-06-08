@@ -1,0 +1,1701 @@
+{
+    "states": [
+        {
+            "id": 42,
+            "name": "Bitburg",
+            "category": "metropolis",
+            "total_slots": 16,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 3,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        11435,
+                        1
+                    ],
+                    [
+                        9575,
+                        3
+                    ],
+                    [
+                        11531,
+                        5
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "RHI",
+                    "PRE"
+                ]
+            },
+            "manpower": 3027739,
+            "province_buildings": {
+                "11470": {
+                    "bunker": 2
+                },
+                "11435": {
+                    "bunker": 2
+                },
+                "9575": {
+                    "bunker": 2
+                },
+                "11531": {
+                    "bunker": 2
+                },
+                "563": {
+                    "bunker": 2
+                },
+                "3558": {
+                    "bunker": 2
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 5,
+            "name": "Allenstein",
+            "category": "town",
+            "total_slots": 6,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 0,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6375,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "PRE"
+                ]
+            },
+            "manpower": 1238108,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 50,
+            "name": "Stuttgart",
+            "category": "large_city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 3,
+                "civilian_factory": 1,
+                "air_base": 2,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        9517,
+                        20
+                    ],
+                    [
+                        11499,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "WUR"
+                ]
+            },
+            "manpower": 3076854,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 51,
+            "name": "Essen",
+            "category": "megalopolis",
+            "total_slots": 20,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 3,
+                "civilian_factory": 4,
+                "air_base": 3,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6469,
+                        10
+                    ],
+                    [
+                        587,
+                        5
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "RHI",
+                    "PRE"
+                ]
+            },
+            "manpower": 6144743,
+            "province_buildings": {
+                "3444": {
+                    "bunker": 2
+                },
+                "9522": {
+                    "bunker": 2
+                },
+                "3547": {
+                    "bunker": 2
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 52,
+            "name": "Munich",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 2,
+                "civilian_factory": 1,
+                "air_base": 6,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        692,
+                        20
+                    ],
+                    [
+                        708,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "BAY"
+                ]
+            },
+            "manpower": 2679413,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 53,
+            "name": "Regensburg",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 1,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        9515,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "BAY"
+                ]
+            },
+            "manpower": 1453365,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 54,
+            "name": "Nuremberg",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 2,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        11544,
+                        10
+                    ],
+                    [
+                        6421,
+                        2
+                    ],
+                    [
+                        9557,
+                        2
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "BAY"
+                ]
+            },
+            "manpower": 2508159,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 55,
+            "name": "Frankfurt",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 1,
+                "civilian_factory": 2,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6488,
+                        20
+                    ],
+                    [
+                        564,
+                        3
+                    ],
+                    [
+                        6444,
+                        2
+                    ],
+                    [
+                        11560,
+                        2
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "HES",
+                    "PRE"
+                ]
+            },
+            "manpower": 3798235,
+            "province_buildings": {
+                "11533": {}
+            },
+            "has_dam": false
+        },
+        {
+            "id": 56,
+            "name": "Wilhelmshaven",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 2,
+                "air_base": 3,
+                "dockyard": 2,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 1,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        241,
+                        5
+                    ],
+                    [
+                        11360,
+                        1
+                    ],
+                    [
+                        11388,
+                        5
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "HAN",
+                    "PRE"
+                ]
+            },
+            "manpower": 2058467,
+            "province_buildings": {
+                "241": {}
+            },
+            "has_dam": false
+        },
+        {
+            "id": 57,
+            "name": "Dortmund",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 3,
+                "civilian_factory": 1,
+                "air_base": 3,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        495,
+                        5
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "HAN",
+                    "PRE"
+                ]
+            },
+            "manpower": 5109333,
+            "province_buildings": {
+                "11431": {}
+            },
+            "has_dam": false
+        },
+        {
+            "id": 58,
+            "name": "Kiel",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 1,
+                "civilian_factory": 0,
+                "air_base": 5,
+                "dockyard": 6,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6389,
+                        10
+                    ],
+                    [
+                        9347,
+                        20
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "SHL",
+                    "PRE"
+                ]
+            },
+            "manpower": 3095630,
+            "province_buildings": {
+                "6389": {
+                    "naval_base": 8
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 59,
+            "name": "Bremen",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 2,
+                "civilian_factory": 1,
+                "air_base": 0,
+                "dockyard": 2,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        3326,
+                        5
+                    ],
+                    [
+                        374,
+                        2
+                    ],
+                    [
+                        6298,
+                        1
+                    ],
+                    [
+                        6377,
+                        10
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "HAN",
+                    "PRE"
+                ]
+            },
+            "manpower": 2438286,
+            "province_buildings": {
+                "6325": {
+                    "naval_base": 1
+                },
+                "374": {
+                    "naval_base": 1
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 60,
+            "name": "Erfurt",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 1,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        3561,
+                        5
+                    ],
+                    [
+                        425,
+                        1
+                    ],
+                    [
+                        538,
+                        2
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "THU"
+                ]
+            },
+            "manpower": 3005214,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 61,
+            "name": "Rostocj",
+            "category": "town",
+            "total_slots": 6,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 3,
+                "civilian_factory": 0,
+                "air_base": 3,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        321,
+                        5
+                    ],
+                    [
+                        11305,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "MEK"
+                ]
+            },
+            "manpower": 836353,
+            "province_buildings": {
+                "321": {
+                    "naval_base": 6
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 62,
+            "name": "Stralsund",
+            "category": "town",
+            "total_slots": 6,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 0,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 1,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        9388,
+                        1
+                    ],
+                    [
+                        3258,
+                        1
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "PRE"
+                ]
+            },
+            "manpower": 1006221,
+            "province_buildings": {
+                "9388": {}
+            },
+            "has_dam": false
+        },
+        {
+            "id": 63,
+            "name": "Stettin",
+            "category": "town",
+            "total_slots": 6,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 1,
+                "air_base": 3,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6282,
+                        5
+                    ],
+                    [
+                        11372,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "KSH",
+                    "PRE"
+                ]
+            },
+            "manpower": 1124417,
+            "province_buildings": {
+                "11372": {
+                    "naval_base": 1
+                },
+                "6282": {
+                    "naval_base": 4
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 64,
+            "name": "Berlin",
+            "category": "megalopolis",
+            "total_slots": 20,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 5,
+                "civilian_factory": 4,
+                "air_base": 6,
+                "dockyard": 0,
+                "anti_air": 2,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6521,
+                        50
+                    ],
+                    [
+                        3522,
+                        5
+                    ],
+                    [
+                        9496,
+                        1
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "PRE"
+                ]
+            },
+            "manpower": 7265029,
+            "province_buildings": {
+                "6521": {
+                    "level": 1,
+                    "dlc": [
+                        "Gotterdammerung"
+                    ]
+                },
+                "3499": {}
+            },
+            "has_dam": false
+        },
+        {
+            "id": 65,
+            "name": "Dresden",
+            "category": "metropolis",
+            "total_slots": 16,
+            "infrastructure": 4,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 2,
+                "civilian_factory": 7,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        514,
+                        5
+                    ],
+                    [
+                        3535,
+                        5
+                    ],
+                    [
+                        9471,
+                        2
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "SAX"
+                ]
+            },
+            "manpower": 5592576,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 66,
+            "name": "Breslau",
+            "category": "large_city",
+            "total_slots": 12,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 1,
+                "air_base": 6,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        9570,
+                        10
+                    ],
+                    [
+                        552,
+                        1
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "SIL",
+                    "PRE"
+                ]
+            },
+            "manpower": 3052726,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 67,
+            "name": "Gleiwitz",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 0,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        11467,
+                        5
+                    ],
+                    [
+                        9511,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "SIL",
+                    "PRE"
+                ]
+            },
+            "manpower": 1402591,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 68,
+            "name": "K\u00fcstrin",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 1,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        3473,
+                        1
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "PRE"
+                ]
+            },
+            "manpower": 1250840,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 763,
+            "name": "K\u00f6nigsberg",
+            "category": "city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 0,
+                "civilian_factory": 2,
+                "air_base": 6,
+                "dockyard": 0,
+                "anti_air": 2,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        6332,
+                        10
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "PRE"
+                ]
+            },
+            "manpower": 2140234,
+            "province_buildings": {
+                "6332": {
+                    "bunker": 1,
+                    "naval_base": 5
+                }
+            },
+            "has_dam": false
+        },
+        {
+            "id": 909,
+            "name": "Flensburg",
+            "category": "rural",
+            "total_slots": 4,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 1,
+                "civilian_factory": 0,
+                "air_base": 0,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        317,
+                        3
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "SHL",
+                    "PRE"
+                ]
+            },
+            "manpower": 152520,
+            "province_buildings": {},
+            "has_dam": false
+        },
+        {
+            "id": 978,
+            "name": "Karlsruhe",
+            "category": "large_city",
+            "total_slots": 10,
+            "infrastructure": 3,
+            "buildings": {
+                "infrastructure": 0,
+                "military_factory": 2,
+                "civilian_factory": 0,
+                "air_base": 1,
+                "dockyard": 0,
+                "anti_air": 0,
+                "synthetic_refinery": 0,
+                "fuel_silo": 0,
+                "radar_station": 0,
+                "rocket_site": 0,
+                "nuclear_reactor": 0,
+                "bunker": 0,
+                "coastal_bunker": 0,
+                "naval_base": 0,
+                "supply_node": 0,
+                "rail_way": 0
+            },
+            "state_bonus": 0.0,
+            "max_buildings": {
+                "infrastructure": 5,
+                "military_factory": 20,
+                "civilian_factory": 20,
+                "air_base": 10,
+                "dockyard": 20,
+                "anti_air": 5,
+                "synthetic_refinery": 3,
+                "fuel_silo": 5,
+                "radar_station": 6,
+                "rocket_site": 3,
+                "nuclear_reactor": 1,
+                "bunker": 10,
+                "coastal_bunker": 10,
+                "naval_base": 10,
+                "supply_node": 1,
+                "rail_way": 1
+            },
+            "provinces": [],
+            "history": {
+                "victory_points": [
+                    [
+                        3530,
+                        10
+                    ],
+                    [
+                        11640,
+                        1
+                    ],
+                    [
+                        6712,
+                        1
+                    ]
+                ],
+                "cores": [
+                    "GER",
+                    "WUR"
+                ]
+            },
+            "manpower": 2056854,
+            "province_buildings": {
+                "3530": {
+                    "bunker": 2
+                },
+                "6542": {
+                    "bunker": 2
+                },
+                "6712": {
+                    "bunker": 2
+                },
+                "11640": {
+                    "bunker": 2
+                }
+            },
+            "has_dam": false
+        }
+    ],
+    "consumer_goods_percent": 0.35,
+    "cgff": 0.0,
+    "modifiers": {
+        "global": 0.1,
+        "infrastructure": 0.0,
+        "military_factory": 0.0,
+        "civilian_factory": 0.0,
+        "air_base": 0.0,
+        "dockyard": 0.0,
+        "anti_air": 0.0,
+        "synthetic_refinery": 0.0,
+        "fuel_silo": 0.0,
+        "radar_station": 0.0,
+        "rocket_site": 0.0,
+        "nuclear_reactor": 0.0,
+        "bunker": 0.0,
+        "coastal_bunker": 0.0,
+        "naval_base": 0.0,
+        "supply_node": 0.0,
+        "rail_way": 0.0
+    },
+    "modifier_changes": [],
+    "industry_level": 0,
+    "industry_days": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "construction_level": 0,
+    "construction_days": [
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "trade_law": "free_trade",
+    "mobilization_law": "volunteer_only",
+    "economic_law": "civilian_economy",
+    "trade_law_changes": [],
+    "mobilization_law_changes": [],
+    "economic_law_changes": [],
+    "rubber_factory_max": 3
+}
